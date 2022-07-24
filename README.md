@@ -1,4 +1,4 @@
-# MachineLearningExercises
+# Natural Language Processing Exercises
 Solutions proposed for Natural Language Processing Specialization course by DeepLearning.AI
 This course consists of 4 parts:
 
